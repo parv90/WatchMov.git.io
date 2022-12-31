@@ -1,2 +1,2 @@
 # WatchMov.git.io
-WatchMov - Watch Movies And Tv Shows Website Template
+WatchMov - Watch Movies and Tv Shows

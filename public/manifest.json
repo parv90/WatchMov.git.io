@@ -1,0 +1,7 @@
+{
+  "short_name": "WatchMov",
+  "name": "WatchMov - Watch Movies and Tv Shows",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone"
+}
