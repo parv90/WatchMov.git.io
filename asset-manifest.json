@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WatchMov.git.io/static/css/main.79ffb89f.css",
-    "main.js": "/WatchMov.git.io/static/js/main.7f7a3841.js",
+    "main.css": "/WatchMov.git.io/static/css/main.1c7d174b.css",
+    "main.js": "/WatchMov.git.io/static/js/main.2a9d338a.js",
     "static/js/787.7f66fe86.chunk.js": "/WatchMov.git.io/static/js/787.7f66fe86.chunk.js",
     "static/media/logo.png": "/WatchMov.git.io/static/media/logo.c5c5dfe09a3e333868e8.png",
     "index.html": "/WatchMov.git.io/index.html",
-    "main.79ffb89f.css.map": "/WatchMov.git.io/static/css/main.79ffb89f.css.map",
-    "main.7f7a3841.js.map": "/WatchMov.git.io/static/js/main.7f7a3841.js.map",
+    "main.1c7d174b.css.map": "/WatchMov.git.io/static/css/main.1c7d174b.css.map",
+    "main.2a9d338a.js.map": "/WatchMov.git.io/static/js/main.2a9d338a.js.map",
     "787.7f66fe86.chunk.js.map": "/WatchMov.git.io/static/js/787.7f66fe86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79ffb89f.css",
-    "static/js/main.7f7a3841.js"
+    "static/css/main.1c7d174b.css",
+    "static/js/main.2a9d338a.js"
   ]
 }
