@@ -1,4 +1,4 @@
-<img src="https://github.com/parv90/WatchMov.git.io/blob/main/src/img/logo.png?raw=true" width="350" title="hover text">
+<img src="https://user-images.githubusercontent.com/70600951/210403891-90279806-8fa9-4ebb-a0c3-031a02f81521.png" width="350" title="hover text">
 
 # WatchMov - Watch Movies and Tv Shows
 
@@ -8,13 +8,13 @@ This project is a simple react based website template for movie streaming servic
 
 ### Images
 
-![Slider](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/slider.jpeg?raw=true)
+![slider](https://user-images.githubusercontent.com/70600951/210403389-577753d7-0f5b-4bd1-808e-03e3ada05587.jpeg)
 
-![Trending](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Trending.jpeg?raw=true)
+![Trending](https://user-images.githubusercontent.com/70600951/210403396-de210fba-6a2d-4cfd-a135-f7b7d17dd48c.jpeg)
 
-![Genre](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Comedy.jpeg?raw=true)
+![Genre](https://user-images.githubusercontent.com/70600951/210403361-3c9c81c9-e3a5-4310-b947-786380e38c68.jpeg)
 
-![Footer](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Footer.jpeg?raw=true)
+![Footer](https://user-images.githubusercontent.com/70600951/210403384-57d0b946-623e-4cbb-ac81-f05d61b7aa95.jpeg)
 
 ### Future Update
 
