@@ -3,6 +3,7 @@ import "./css/App.css";
 import NavigationBar from "./components/navigationBar";
 import Slider from "./components/slider";
 import Recomendations from "./components/recomendations";
+import FooterBar from "./components/footerBar";
 import requests from "./requests";
 import "bootstrap";
 
@@ -72,6 +73,7 @@ class App extends Component {
             fetchUrl={requests.fetchDocumentaries}
           />
         </div>
+        <FooterBar/>
       </div>
     );
   }

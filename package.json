@@ -44,5 +44,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "description": "WatchMov - Watch Movies and Tv Shows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parv90/WatchMov.git.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parv90/WatchMov.git.io/issues"
   }
 }
