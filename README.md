@@ -1,4 +1,4 @@
-<img src="./src/img/logo.png" width="350" title="hover text">
+<img src="https://github.com/parv90/WatchMov.git.io/blob/main/src/img/logo.png" width="350" title="hover text">
 
 # WatchMov - Watch Movies and Tv Shows
 
@@ -8,13 +8,13 @@ This project is a simple react based website template for movie streaming servic
 
 ### Images
 
-![Slider](./src/img/slider.jpeg)
+![Slider](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/slider.jpeg)
 
-![Trending](./src/img/Trending.jpeg)
+![Trending](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Trending.jpeg)
 
-![Genre](./src/img/Comedy.jpeg)
+![Genre](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Comedy.jpeg)
 
-![Footer](./src/img/Footer.jpeg)
+![Footer](https://github.com/parv90/WatchMov.git.io/blob/main/src/img/Footer.jpeg)
 
 ### Future Update
 
