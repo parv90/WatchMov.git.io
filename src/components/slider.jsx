@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import requests from "../requests";
 import "bootstrap/dist/css/bootstrap.css";
 import Carousel from "react-bootstrap/Carousel";
 import "../css/slider.css";
@@ -66,12 +65,12 @@ const Slider = ({ fetchUrl }) => {
                   alt={movie.name}
                   style={slideStylesWidthBackground}
                 />
-                <Carousel.Caption style={{ background: "none", zIndex: "1" }}>
-                  <h3 style={{ background: "none" }} className="text">
+                <Carousel.Caption style={{ zIndex: "1" }}>
+                  <h3 className="text">
                     {movie.title || movie.name || movie.original_name}
                   </h3>
                   <p className="para">{movie.overview}</p>
-                  <p style={{ background: "none" }} className="rating">
+                  <p className="rating">
                     IMDB - {movie.vote_average}/10
                   </p>
                 </Carousel.Caption>
